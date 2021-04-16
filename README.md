@@ -1,3 +1,2 @@
-# openCV
+# Exploring OpenCv
 
-Exploring OpenCv
