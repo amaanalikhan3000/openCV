@@ -1,2 +1,3 @@
-# Exploring OpenCv
 
+# OpenCV basics
+Explored OpenCV using basic 
