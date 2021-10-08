@@ -1,3 +1,3 @@
 
 # OpenCV basics
-Explored OpenCV using basic 
+Explored OpenCV using basic commands
